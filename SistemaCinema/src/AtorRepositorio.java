@@ -1,0 +1,1 @@
+public class AtorRepositorio extends RepositorioGenerico<Ator> { }
